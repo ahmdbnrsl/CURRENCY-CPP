@@ -1,0 +1,7 @@
+{
+    "name": "Custom IDX Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+
+}
